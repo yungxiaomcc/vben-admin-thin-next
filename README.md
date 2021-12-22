@@ -7,6 +7,8 @@
 
 **English** | [中文](./README.zh-CN.md)
 
+1. 解决 pnpm 报错问题：npm install -g pnpm@6.23.6,指定 pnpm 版本为 6.23.6
+
 ## Introduction
 
 Vue Vben Admin is a free and open source middle and back-end template. Using the latest `vue3`, `vite2`, `TypeScript` and other mainstream technology development, the out-of-the-box middle and back-end front-end solutions can also be used for learning reference.
